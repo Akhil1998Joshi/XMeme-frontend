@@ -101,7 +101,7 @@ const Navbar = () => {
     }, []);
 
     const openTab = () => {
-        window.open('http://ec2-52-66-245-92.ap-south-1.compute.amazonaws.com:8081/swagger-ui.html#/');
+        window.open('https://xmeme-postgres-backend.herokuapp.com/swagger-ui.html#/');
     }
 
 
